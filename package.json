@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-plugin-highlight.js",
+  "name": "eleventy-plugin-highlightjs",
   "version": "1.0.0",
   "description": "",
   "main": ".eleventy.js",
