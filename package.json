@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-plugin-highlight.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thephpjedi/eleventy-plugin-highlightjs.git"
+  },
+  "author": "Alesandro Ortiz <hello@alesandroortiz.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thephpjedi/eleventy-plugin-highlightjs/issues"
+  },
+  "homepage": "https://github.com/thephpjedi/eleventy-plugin-highlightjs#readme"
+}
