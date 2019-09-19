@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thephpjedi/eleventy-plugin-highlightjs/issues"
   },
-  "homepage": "https://github.com/thephpjedi/eleventy-plugin-highlightjs#readme"
+  "homepage": "https://github.com/thephpjedi/eleventy-plugin-highlightjs#readme",
+  "dependencies": {
+    "highlight.js": "^9.15.10"
+  }
 }
