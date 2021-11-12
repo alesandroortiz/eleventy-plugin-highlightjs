@@ -17,7 +17,7 @@ module.exports = function(str, language) {
         html = str;
     } else {
         html = 'test';
-        html = hljs.highlight(language, str).value;
+        html = hljs.highlight(str, {language: language}).value;
     }
 
     return `<pre class="language-${language}"><code class="language-${language}">${html}</code></pre>`;
