@@ -11,7 +11,7 @@
     "url": "git+https://github.com/alesandroortiz/eleventy-plugin-highlightjs.git"
   },
   "author": "Alesandro Ortiz <hello@alesandroortiz.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alesandroortiz/eleventy-plugin-highlightjs/issues"
   },
